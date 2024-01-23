@@ -5,6 +5,14 @@
 using namespace std;
 
 /* Definition for a binary tree node. */
+/*
+INTEGRANTES:
+
+->Daniel Casquino
+
+->Alexis Raza
+
+->Gabriel Blanco*/
  struct TreeNode {
     int val;
     TreeNode *left;
